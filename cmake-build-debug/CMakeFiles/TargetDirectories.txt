@@ -1,0 +1,3 @@
+/home/stollpy/dev/C/gpio/tablelamp/cmake-build-debug/CMakeFiles/tablelamp.dir
+/home/stollpy/dev/C/gpio/tablelamp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stollpy/dev/C/gpio/tablelamp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
